@@ -1,0 +1,17 @@
+.myname {
+    padding: 20px;
+    background: linear-gradient(#090979 0%, #679d19 100%);
+}
+
+body {
+    text-align: center;
+}
+
+.bio {
+    padding: 20px;
+    background: linear-gradient(#9d3319 0%, #19199d 100%);
+}
+
+img {
+    height: 300px;
+}
